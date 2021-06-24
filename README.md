@@ -16,7 +16,8 @@
 
    Clonar os repositórios
    
-    $ git clone https://github.com/freitasDavi/react_quiz.git
+    $ git clone https://github.com/freitasDavi/Happy_NL3.git
+    $ git clone https://github.com/freitasDavi/Happy_NLW3Api.git
    
     # Instalar o node/yarn 
 
@@ -25,8 +26,10 @@
     # Instalar as dependencias
   
     $ yarn install
+    $ yarn install
     
     # Inicializar a aplicação
 
     $ yarn start
+    $ yarn dev
 
